@@ -1,4 +1,4 @@
-#Data Structures and Algorithms 🚀
+# Data Structures and Algorithms 🚀
 
 Welcome to the Data Structures and Algorithms repository! This project is dedicated to exploring fundamental and advanced concepts in data structures and algorithms, helping developers and students strengthen their understanding of computational efficiency.
 
